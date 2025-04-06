@@ -11,10 +11,10 @@
 * **How**:
 
     * **JDK**: It’s a full-featured software development kit used to develop Java applications. It includes the JRE, JVM, and additional tools like compilers (javac).
+ 
+    * **JRE**: It provides libraries, Java Virtual Machine, and other components necessary to run applications written in Java.
 
     * **JVM**: It is the engine that provides runtime environment to execute Java bytecode, converting it into machine code for the operating system.
-
-    * **JRE**: It provides libraries, Java Virtual Machine, and other components necessary to run applications written in Java.
 
 **Example**: In my project at Revature, we used the JDK to compile and run Java code locally on our machines, while the JVM ensured the bytecode we generated was cross-platform compatible.
 
